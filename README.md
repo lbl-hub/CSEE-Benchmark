@@ -1,3 +1,3 @@
 # 项目介绍
-This project is a new type of power system calculation example released by the China Electric Power Research Institute, which includes stable forms such as power angle, voltage, and frequency.<br>
-该项目为中国电力科学研究院（China Electric Power Research Institute）发布的新型电力系统算例，包括功角、电压和频率等稳定形态。
+This project is a new type of power system calculation example released by the China Electric Power Research Institute, which includes stable forms such as power angle, voltage, and frequency. These examples can comprehensively reflect the various stability characteristics of power systems at the electromechanical transient scale, and have flexible expansion capabilities. They can provide a basic platform for the stability analysis and control of high proportion new energy power systems, and help to horizontally compare different conclusions and improve the research efficiency of researchers.<br>
+该项目是中国电力科学研究院（China Electric Power Research Institute）发布的新型电力系统算例，包括功角、电压和频率等稳定形态。这些算例可全面地反映机电暂态尺度下的电力系统的多种稳定特性，且具有灵活的拓展能力，可为高比例新能源电力系统的稳定分析与控制的相关研究提供基础平台，有助于不同结论的横向比较和研究人员科研效率的提升。
