@@ -38,7 +38,7 @@ Fig.4 Main grid of CEPRI-VS
 </p> 
 Two typical voltage stability scenarios are incorporated in CEPRI-VS, i.e., voltage collapse and continuous low-voltage. The constraint fault of both scenarios is N-2 transmission line disconnection after a three-phase-to-ground fault between bus B03 and bus B05. Dynamics of the two scenarios are demonstrated in Fig.5-6, respectively. Some new, distinct performances induced by renewables are incorporated as well. <br>
 <div align=center>
-<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC2.png" width="400">&nbsp;&nbsp;<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC3.png" width="400"/>
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC2.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC3.png" width="400"/>
 </div>
 <p align="center">  
 Fig.5 Dynamics of voltage collapse scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.6 Dynamics of continuous low-voltage scenario
