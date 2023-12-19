@@ -100,8 +100,10 @@ Copyright (C) China Electric Power Research Institute
 
 Under this license agreement, anyone has the right to copy, distribute, and/or modify this software, but must comply with the following conditions:
 
-1.The copyright of this project belongs to China Electric Power Research Institute.
-2.It is prohibited to use this project for any commercial purposes, including but not limited to selling, renting, or for any profit-making purposes.
-3.If this project is used in academic papers or other research outputs, please cite the source of this project.
+1.The copyright of this project belongs to China Electric Power Research Institute. <br>
+2.It is prohibited to use this project for any commercial purposes, including but not limited to selling, renting, or for any profit-making purposes. <br>
+3.If this project is used in academic papers or other research outputs, please cite the source of this project. <br>
+The citation format of the paper is as follows:. <br>
+[1] 徐式蕴,李宗翰,赵兵等.新型电力系统标准算例(1)：功角稳定CSEE-RAS[J/OL].中国电机工程学报:1-14[2023-12-19].https://doi.org/10.13334/j.0258-8013.pcsee.230534.
 
 
