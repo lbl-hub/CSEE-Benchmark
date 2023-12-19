@@ -19,10 +19,10 @@ Fig.1 System topology of CSEE-RAS
 The installed capacity of renewable energy in the benchmark test system is more than 50%. According to the system structure, dynamic and transient rotor angle stability scenarios are provided by adjusting the operation mode, and the penetration level of renewable energy in the above scenarios is above 50%. The response curve of rotor angle dynamic stability is shown in Fig.2. The damping ratio is selected to evaluate dynamic rotor angle stability. And impact factors that influence dynamic rotor angle stability level are renewable energy penetration, thermal power plant location, renewable energy control strategy and the line series compensation. And these impact factors are used to obtain the sensitivity analysis.<br>
 The response curve of rotor angle transient stability is shown in Fig.3. The critical clearing time (CCT) is selected to evaluate dynamic rotor angle stability. And impact factors that influence transient rotor angle stability level are renewable energy penetration, renewable energy plant location, thermal power plant location, the power flow level, renewable energy control strategy and VDCOL control strategy. And these impact factors are used to obtain the sensitivity analysis.
 <div align=center>
-<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS3.png" width="400"><img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS2.png" width="400">
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS3.png" width="400">&nbsp;&nbsp;<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS2.png" width="400">
 </div>
 <p align="center">  
-Fig.2 Response curve of rotor angle dynamic stability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.3 Response curve of rotor angle transient stability
+Fig.2 Response curve of rotor angle dynamic stability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.3 Response curve of rotor angle transient stability
 </p> 
 Sensitivity analysis results show that this electromagnetic transient simulation benchmark is able to comprehensively reflects the characteristics of different rotor angle stability issues and has flexible extensibility. Sharing the benchmark test system can provide a basic platform for related research of rotor angle stability analysis and control, and contr
 ibute to the horizontal comparison of different conclusions and the improvement of research efficiency. <br>
@@ -38,10 +38,10 @@ Fig.4 Main grid of CEPRI-VS
 </p> 
 Two typical voltage stability scenarios are incorporated in CEPRI-VS, i.e., voltage collapse and continuous low-voltage. The constraint fault of both scenarios is N-2 transmission line disconnection after a three-phase-to-ground fault between bus B03 and bus B05. Dynamics of the two scenarios are demonstrated in Fig.5-6, respectively. Some new, distinct performances induced by renewables are incorporated as well. <br>
 <div align=center>
-<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC2.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC3.png" width="400"/>
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC2.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC3.png" width="400"/>
 </div>
 <p align="center">  
-Fig.5 Dynamics of voltage collapse scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.6 Dynamics of continuous low-voltage scenario
+Fig.5 Dynamics of voltage collapse scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.6 Dynamics of continuous low-voltage scenario
 </p> 
 Fig.7 gives an example of repeated low-voltage-ride-through of a wind turbine in voltage collapse scenario. The performance results in abnormal voltage oscillation, as can be seen from bus B08 in Fig.5. <br>
 <div align=center>
