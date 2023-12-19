@@ -1,7 +1,7 @@
 # 目录
 - [Project Introduction（项目介绍）](#section-1)
 - [Introduction to the Standard Benchmark of Rotor Angle Stability（功角稳定标准算例介绍）](#section-2)
-- [Introduction to the Standard Benchmark of Power Angle Stability（电压稳定标准算例介绍）](#section-3)
+- [Introduction to the Standard Benchmark of Voltage Stability（电压稳定标准算例介绍）](#section-3)
 - [Introduction to the Standard Benchmark of Frequency Stability（频率稳定标准算例介绍）](#section-4)
 - [Communication（交流合作）](#section-5)
 - [License（开源协议）](#section-6)
