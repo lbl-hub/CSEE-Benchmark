@@ -51,8 +51,19 @@ Fig.7 gives an example of repeated low-voltage-ride-through of a wind turbine in
 Fig.7 New distinct performance induced by renewables
 </p> 
 
-
-
-
-
-
+# Introduction to the Standard Benchmark of Frequency Stability (频率稳定标准算例介绍)
+The proportion of clean energy such as new energy and hydropower in the new power system increases continuously. The frequency collapse brought by high proportion of new energy and the ultra-low frequency oscillation risk caused by high proportion of hydropower are becoming increasingly prominent. In order to support the research needs of frequency safety and stability analysis and control under different scenarios of the new power system, we construct the frequency stability benchmark test system of Chinese Society for Electrical Engineering (CSEE-FS). For the traditional frequency stability problem, high-frequency and low-frequency scenarios with new energy installation and output ratios both above 50% are constructed to analyze the influence of disturbance intensity, new energy output and control strategy on the maximum frequency deviation and its corresponding occurrence time as well as steady-state frequency deviation. For the ultra-low frequency oscillation problem, a scenario with hydropower output ratio reaching 89% is constructed to analyze the influence of different AC/DC disturbance types, key parameters of governor and system inertia on oscillation frequency and amplitude. The sensitivity analysis results show that the benchmark test system constructed can accurately reflect the characteristics of different frequency stability scenarios and has respectable scalability, which can meet the verification needs of frequency safety and stability analysis and control methodologies for new power systems.<br>
+The system topology is shown in Fig.8. The power transmission system has 47 nodes and three DC lines in ±500kV. The system has 7 generators with the total installed capacity of 5400MW. And the total installed capacity of new energy including wind and photovoltaic units is 6900MW, the installed capacity proportion of new energy is 56.1%. The total amount of active loads is 4852.1MW.
+<div align=center>
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/FS1.png" width="400">
+</div>
+<p align="center">  
+Fig.8 System topology of CSEE-FS
+</p> 
+Simulation tests were conducted on high/low- frequency, and ultra-low frequency oscillation scenarios using the constructed benchmark system. In the high-frequency scenario, the effects of DC power, DC fault types and the proportion of new energy were analyzed. In low-frequency scenario, the effects of disturbance types and new energy control strategies were studied. In the ultra-low frequency oscillation scenario, the effects of disturbance types, hydroelectric units’ parameters and system inertia were explored.<br>
+<div align=center>
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/FS2.png" width="400"><img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/FS3.png" width="400"/>
+</div>
+<p align="center">  
+(a)Low frequency scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)Ultra-low frequency scenario
+</p> 
