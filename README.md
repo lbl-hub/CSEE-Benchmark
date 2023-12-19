@@ -41,13 +41,15 @@ Two typical voltage stability scenarios are incorporated in CEPRI-VS, i.e., volt
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC2.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC3.png" width="400"/>
 </div>
 <p align="center">  
-Fig.5 Dynamics of voltage collapse scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.6 Dynamics of continuous low-voltage scenario
+Fig.5 Dynamics of voltage collapse scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.6 Dynamics of continuous low-voltage scenario
 </p> 
 Fig.7 gives an example of repeated low-voltage-ride-through of a wind turbine in voltage collapse scenario. The performance results in abnormal voltage oscillation, as can be seen from bus B08 in Fig.5. <br>
 <div align=center>
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC4.png" width="400">
 </div>
-
+<p align="center">  
+Fig.7 New distinct performance induced by renewables
+</p> 
 
 
 
