@@ -13,4 +13,6 @@ In view of the above, we designs a benchmark for voltage stability study named C
 <div align=center>
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS1.png" width="500">
 </div>
-                              Fig. 1.System topology of CSEE-RAS
+<p align="center">  
+Fig. 1.System topology of CSEE-RAS
+</p> 
