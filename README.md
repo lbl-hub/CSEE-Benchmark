@@ -14,5 +14,13 @@ In view of the above, we designs a benchmark for voltage stability study named C
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS1.png" width="500">
 </div>
 <p align="center">  
-Fig. 1.System topology of CSEE-RAS
+Fig.1 System topology of CSEE-RAS
 </p> 
+The installed capacity of renewable energy in the benchmark test system is more than 50%. According to the system structure, dynamic and transient rotor angle stability scenarios are provided by adjusting the operation mode, and the penetration level of renewable energy in the above scenarios is above 50%. The response curve of rotor angle dynamic stability is shown in Fig. 2. The damping ratio is selected to evaluate dynamic rotor angle stability. And impact factors that influence dynamic rotor angle stability level are renewable energy penetration, thermal power plant location, renewable energy control strategy and the line series compensation. And these impact factors are used to obtain the sensitivity analysis.
+<div align=center>
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS2.png" width="500">
+</div>
+<p align="center">  
+Fig.2 Response curve of rotor angle dynamic stability
+</p> 
+
