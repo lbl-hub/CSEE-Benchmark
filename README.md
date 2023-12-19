@@ -7,11 +7,11 @@
 # Project Introduction (项目介绍)
 This project is a new power system example released by the China Electric Power Research Institute. The proportion of new energy in these examples exceeds 50%, which can comprehensively reflect the stable characteristics of the new power system in terms of power angle, voltage, and frequency at the electromechanical transient scale. It can provide a basic platform for researchers and improve their efficiency.<br>
 It should be noted that these examples were developed based on the Power System Simulation Software (PSD-BPA). Therefore, you need to have PSD-BPA software in order to use these examples. If you do not have PSD-BPA, please contact: wugy@epri.sgcc.com.cn.<br>
-In addition, there are benchmark paper in each folder. The paper provides a detailed description of the characteristics of the examples. In addition to the paper, the folder also contains the corresponding flow file (. dat), stability file (. swi), flow calculation program (PFNT. exe), stability calculation program (SWNT. exe), and user manual for PSD-BPA for each benchmark.<br>
+In addition, there are case studies in each folder. The paper provides a detailed description of the characteristics of the examples and provides detailed parameters for the benchmarks. In addition to the paper, the folder also contains the corresponding flow file (. dat), stability file (. swi), flow calculation program (PFNT. exe), stability calculation program (SWNT. exe), and user manual for PSD-BPA for each benchmark.<br>
 
 该项目是中国电力科学研究院（China Electric Power Research Institute）发布的新型电力系统算例。这些算例的新能源占比均超过50%，可全面地反映机电暂态尺度下新型电力系统的功角、电压和频率等稳定特性，可为研究人员提供基础平台，提升科研人员的效率。<br>
 需要特别说明的是这些算例是基于电力系统仿真软件（PSD-BPA）进行开发的。因此，您需要拥有PSD-BPA软件，才可以使用这些算例。若您没有PSD-BPA，请联系： wugy@epri.sgcc.com.cn。<br>
-此外，每个文件夹下都有算例论文。论文中详细描述了算例的特性。除了论文外，文件夹内还有每个算例对应的潮流文件（.dat）、稳定文件（.swi）、潮流计算程序（PFNT.exe）、稳定计算程序（SWNT.exe）和PSD-BPA的使用手册。<br>
+此外，每个文件夹下都有算例论文。论文中详细描述了算例的特性，并给出算例的详细参数。除了论文外，文件夹内还有每个算例对应的潮流文件（.dat）、稳定文件（.swi）、潮流计算程序（PFNT.exe）、稳定计算程序（SWNT.exe）和PSD-BPA的使用手册。<br>
 
 # Introduction to the Standard Benchmark of Rotor Angle Stability (功角稳定标准算例介绍)
 Modern power systems are developing as AC-DC hybrid power system with high penetration of renewables. Voltage stability of the system is changing profoundly, and has been extensively studied. However, the studies adopt various test system in simulations and case study. Authenticity and rationality of the test systems are occasionally overlooked. Besides, it is hard to compare the studies in different literatures. 
@@ -74,7 +74,7 @@ Simulation tests were conducted on high/low- frequency, and ultra-low frequency 
 (a)Low frequency scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)Ultra-low frequency scenario<br>Fig. 8 Frequency deviations under different types of disturbance
 </p> 
 
-# Thanks
+# Thanks（鸣谢）
 
 Thank you to the benchmark developers for their efforts. Here is the list of developers: <br>
 | 开发人员 | 性别 | 职位 | 邮箱 |
@@ -85,5 +85,9 @@ Thank you to the benchmark developers for their efforts. Here is the list of dev
 | 吴萍 | 女 | 高级工程师 | wuping@epri.sgcc.com.cn |
 | 李宗翰 | 男 | 工程师 | lizonghan@epri.sgcc.com.cn |
 | 程奕 | 男 | 工程师 | chengyi@epri.sgcc.com.cn |<br>
+
+# Communication and Cooperation
+
+We have a WeChat communication group where all case developers are present. If you have any questions during the use of the example, please scan the QR code below to join. Our developers will answer your questions promptly. In addition, we warmly welcome your participation in the maintenance work of the example project. The examples are developed based on PSD-BPA, and the paper provides detailed parameters for all the examples. If you transplant the calculation example to other power system simulation software, you can also provide relevant documents, and we will supplement them to this project. Thank you for your tremendous contribution.
 
 
