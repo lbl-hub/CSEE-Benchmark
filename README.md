@@ -4,8 +4,8 @@
 - [Introduction to the Standard Benchmark of Power Angle Stability（电压稳定标准算例介绍）](#section-3)
 - [Introduction to the Standard Benchmark of Frequency Stability（频率稳定标准算例介绍）](#section-4)
 - [Communication（交流合作）](#section-5)
-- [Thanks（鸣谢）](#section-6)
-- [License（开源协议）](#section-7)
+- [License（开源协议）](#section-6)
+- [Thanks（鸣谢）](#section-7)
 
 # Project Introduction （项目介绍）
 This project is a new power system example released by the China Electric Power Research Institute. The proportion of new energy in these examples exceeds 50%, which can comprehensively reflect the stable characteristics of the new power system in terms of power angle, voltage, and frequency at the electromechanical transient scale. It can provide a basic platform for researchers and improve their efficiency.<br>
@@ -86,18 +86,6 @@ We have a WeChat communication group where all benchmark developers are present.
 
 我们有一个微信交流群，所有算例开发人员都在群内。如果您在算例的使用过程中有任何问题，请扫描下方的二维码加入，我们的开发人员将及时回答您的问题。此外，我们热烈欢迎您参与算例项目的维护工作，当前算例是基于PSD-BPA开发的，论文中给出了所有算例的详细参数。如果您将算例移植到其他电力系统仿真软件中，您也可以提供相关文件，我们将对其进行补充，并感谢您的巨大贡献。
 
-# Thanks（鸣谢）
-
-Thank you to the benchmark developers for their efforts. Here is the list of developers: <br>
-| 开发人员 | 性别 | 职位 | 邮箱 |
-| --- | --- | --- | --- |
-| 孙华东 | 男 | 教授级高级工程师 | sunhd@epri.sgcc.com.cn |
-| 赵兵 | 男 | 教授级高级工程师 | zhaobing@epri.sgcc.com.cn |
-| 徐式蕴 | 女 | 教授级高级工程师 | xushiyun@epri.sgcc.com.cn |
-| 吴萍 | 女 | 高级工程师 | wuping@epri.sgcc.com.cn |
-| 李宗翰 | 男 | 工程师 | lizonghan@epri.sgcc.com.cn |
-| 兰天楷 | 男 | 工程师 | lantiankai@epri.sgcc.com.cn |
-| 程奕 | 男 | 工程师 | chengyi@epri.sgcc.com.cn |<br>
 
 # License（开源协议）
 Copyright (C) China Electric Power Research Institute
@@ -121,3 +109,15 @@ The citation format of the paper is as follows:. <br>
 2. 禁止将该项目用于任何商业用途，包括但不限于出售、出租或用于营利性目的。
 3. 若在学术论文或其他研究成果中使用了该项目，请在引文中注明该项目的来源。
 
+# Thanks（鸣谢）
+
+Thank you to the benchmark developers for their efforts. Here is the list of developers: <br>
+| 开发人员 | 性别 | 职位 | 邮箱 |
+| --- | --- | --- | --- |
+| 孙华东 | 男 | 教授级高级工程师 | sunhd@epri.sgcc.com.cn |
+| 赵兵 | 男 | 教授级高级工程师 | zhaobing@epri.sgcc.com.cn |
+| 徐式蕴 | 女 | 教授级高级工程师 | xushiyun@epri.sgcc.com.cn |
+| 吴萍 | 女 | 高级工程师 | wuping@epri.sgcc.com.cn |
+| 李宗翰 | 男 | 工程师 | lizonghan@epri.sgcc.com.cn |
+| 兰天楷 | 男 | 工程师 | lantiankai@epri.sgcc.com.cn |
+| 程奕 | 男 | 工程师 | chengyi@epri.sgcc.com.cn |<br>
