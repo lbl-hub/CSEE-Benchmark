@@ -78,7 +78,7 @@ Simulation tests were conducted on high/low- frequency, and ultra-low frequency 
 
 Thank you to the benchmark developers for their efforts. Here is the list of developers:
 
-| 开发人员 | 性别 | 职位 | 邮箱 |  
-| --- | --- | --- |  
-| 孙华东 | 男 | 教授级高级工程师 | sunhd@epri.sgcc.com.cn |  
-| 赵兵 | 男 | 教授级高级工程师 | zhaobing@epri.sgcc.com.cn |  
+| 开发人员 | 性别 | 职位 | 邮箱 |
+| --- | --- | --- | --- |
+| 孙华东 | 男 | 教授级高级工程师 | sunhd@epri.sgcc.com.cn |
+| 赵兵 | 男 | 教授级高级工程师 | zhaobing@epri.sgcc.com.cn |
