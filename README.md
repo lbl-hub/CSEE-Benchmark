@@ -74,3 +74,10 @@ Simulation tests were conducted on high/low- frequency, and ultra-low frequency 
 (a)Low frequency scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)Ultra-low frequency scenario<br>Fig. 8 Frequency deviations under different types of disturbance
 </p> 
 
+# Thanks
+
+Thank you to the benchmark developers for their efforts. Here is the list of developers:
+| 开发人员 | 性别 | 职位 |  
+| --- | --- | --- |  
+| 孙华东 | 男 | 教授级高级工程师 |  
+| 内容 | 内容 | 内容 | 
