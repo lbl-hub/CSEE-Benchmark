@@ -11,5 +11,5 @@ In addition, each example folder contains corresponding power flow files (.dat) 
 Modern power systems are developing as AC-DC hybrid power system with high penetration of renewables. Voltage stability of the system is changing profoundly, and has been extensively studied. However, the studies adopt various test system in simulations and case study. Authenticity and rationality of the test systems are occasionally overlooked. Besides, it is hard to compare the studies in different literatures. 
 In view of the above, we designs a benchmark for voltage stability study named CEPRI-VS, which is based on the practical engineering of China. Topology of the system main grid is demonstrated in Fig. 1., with its renewable penetration above 50%. The system is comprised of 21 nodes of 500kV, and 55 nodes of lower voltage level that depict details of power plants and converter stations. <br>
 
-<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS1.png" width="600" height="105">
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS1.png" width="500" height="500">
 Fig. 1.System topology of CSEE-RAS
