@@ -33,13 +33,21 @@ Fig.3 Response curve of rotor angle transient stability
 Sensitivity analysis results show that this electromagnetic transient simulation benchmark is able to comprehensively reflects the characteristics of different rotor angle stability issues and has flexible extensibility. Sharing the benchmark test system can provide a basic platform for related research of rotor angle stability analysis and control, and contribute to the horizontal comparison of different conclusions and the improvement of research efficiency. <br>
 
 # Introduction to the Standard Benchmark of Power Angle Stability (电压稳定标准算例介绍)
-The stability characteristics of AC-DC hybrid power grids with high proportion of renewable energy have profound changes, and rotor angle stability remains a key issue that threatens the operation safety. Related studies have required higher demands on the authenticity, rationality and representativeness of benchmark test system.
-In this paper, the rotor angle stability benchmark test system aimed to utilize for electromagnetic transient simulation is constructed based on the practical topology and data by Chinese Society for Electrical Engineering (CSEE-RAS). The main grid voltage level of aforementioned benchmark is 500kV and this benchmark includes 2 regions, 1 AC transmission channel and 1 DC transmission channel. The system topology is shown in Fig.4, the region A is the sending system and the region B is the receiving system.
+Modern power systems are developing as AC-DC hybrid power system with high penetration of renewables. Voltage stability of the system is changing profoundly, and has been extensively studied. However, the studies adopt various test system in simulations and case study. Authenticity and rationality of the test systems are occasionally overlooked. Besides, it is hard to compare the studies in different literatures. 
+In view of the above, this paper designs a benchmark for voltage stability study named CEPRI-VS, which is based on the practical engineering of China. Topology of the system main grid is demonstrated in Fig.4., with its renewable penetration above 50%. The system is comprised of 21 nodes of 500kV, and 55 nodes of lower voltage level that depict details of power plants and converter stations.
 <div align=center>
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC1.png" width="500">
 </div>
 <p align="center">  
-Fig.4 System topology of CSEE-RAS
+Fig.4 Main grid of CEPRI-VS
 </p> 
+Two typical voltage stability scenarios are incorporated in CEPRI-VS, i.e., voltage collapse and continuous low-voltage. The constraint fault of both scenarios is N-2 transmission line disconnection after a three-phase-to-ground fault between bus B03 and bus B05. Dynamics of the two scenarios are demonstrated in Fig.2-3, respectively. Some new, distinct performances induced by renewables are incorporated as well. Figure 4 gives an example of repeated low-voltage-ride-through of a wind turbine in voltage collapse scenario. The performance results in abnormal voltage oscillation, as can be seen from bus B08 in Fig.2.
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC2.png" width="500"><img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC3.png" width="500"><img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC4.png" width="500">
+
+
+
+
+
+
 
 
