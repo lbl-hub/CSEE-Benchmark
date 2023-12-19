@@ -65,5 +65,5 @@ Simulation tests were conducted on high/low- frequency, and ultra-low frequency 
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/FS2.png" width="400">&nbsp;&nbsp;&nbsp;<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/FS3.png" width="400"/>
 </div>
 <p align="center">  
-(a)Low frequency scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)Ultra-low frequency scenario
+(a)Low frequency scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)Ultra-low frequency scenario<br>Fig. 8 Frequency deviations under different types of disturbance
 </p> 
