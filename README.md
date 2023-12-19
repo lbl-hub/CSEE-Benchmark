@@ -3,7 +3,9 @@
 - [Introduction to the Standard Benchmark of Rotor Angle Stability(功角稳定标准算例介绍)](#section-2)
 - [Introduction to the Standard Benchmark of Power Angle Stability(电压稳定标准算例介绍)](#section-3)
 - [Introduction to the Standard Benchmark of Frequency Stability(频率稳定标准算例介绍)](#section-4)
-
+- [Communication（交流合作）](#section-5)
+- [Thanks（鸣谢）](#section-6)
+- [License（开源协议）](#section-7)
 # Project Introduction (项目介绍)
 This project is a new power system example released by the China Electric Power Research Institute. The proportion of new energy in these examples exceeds 50%, which can comprehensively reflect the stable characteristics of the new power system in terms of power angle, voltage, and frequency at the electromechanical transient scale. It can provide a basic platform for researchers and improve their efficiency.<br>
 It should be noted that these examples were developed based on the Power System Simulation Software (PSD-BPA). Therefore, you need to have PSD-BPA software in order to use these examples. If you do not have PSD-BPA, please contact: wugy@epri.sgcc.com.cn.<br>
@@ -74,6 +76,15 @@ Simulation tests were conducted on high/low- frequency, and ultra-low frequency 
 (a)Low frequency scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)Ultra-low frequency scenario<br>Fig. 8 Frequency deviations under different types of disturbance
 </p> 
 
+# Communication（交流合作）
+
+We have a WeChat communication group where all benchmark developers are present. If you have any questions during the use of the example, please scan the QR code below to join. Our developers will answer your questions promptly. In addition, we warmly welcome your participation in the maintenance work of the benchmark project. The benchmarks are developed based on PSD-BPA, and the paper provides detailed parameters for all the benchmarks. If you transplant the benchmark to other power system simulation software, you can also provide relevant documents, and we will supplement them to this project. Thank you for your tremendous contribution.
+<div align=center>
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/WEchat_group.png" width="400">
+</div>
+
+我们有一个微信交流群，所有算例开发人员都在群内。如果您在算例的使用过程中有任何问题，请扫描下方的二维码加入，我们的开发人员将及时回答您的问题。此外，我们热烈欢迎您参与算例项目的维护工作，当前算例是基于PSD-BPA开发的，论文中给出了所有算例的详细参数。如果您将算例移植到其他电力系统仿真软件中，您也可以提供相关文件，我们将对其进行补充，并感谢您的巨大贡献。
+
 # Thanks（鸣谢）
 
 Thank you to the benchmark developers for their efforts. Here is the list of developers: <br>
@@ -87,19 +98,10 @@ Thank you to the benchmark developers for their efforts. Here is the list of dev
 | 兰天楷 | 男 | 工程师 | lantiankai@epri.sgcc.com.cn |
 | 程奕 | 男 | 工程师 | chengyi@epri.sgcc.com.cn |<br>
 
-# Communication（交流合作）
-
-We have a WeChat communication group where all benchmark developers are present. If you have any questions during the use of the example, please scan the QR code below to join. Our developers will answer your questions promptly. In addition, we warmly welcome your participation in the maintenance work of the benchmark project. The benchmarks are developed based on PSD-BPA, and the paper provides detailed parameters for all the benchmarks. If you transplant the benchmark to other power system simulation software, you can also provide relevant documents, and we will supplement them to this project. Thank you for your tremendous contribution.
-<div align=center>
-<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/WEchat_group.png" width="400">
-</div>
-
-我们有一个微信交流群，所有算例开发人员都在群内。如果您在算例的使用过程中有任何问题，请扫描下方的二维码加入，我们的开发人员将及时回答您的问题。此外，我们热烈欢迎您参与算例项目的维护工作，当前算例是基于PSD-BPA开发的，论文中给出了所有算例的详细参数。如果您将算例移植到其他电力系统仿真软件中，您也可以提供相关文件，我们将对其进行补充，并感谢您的巨大贡献。
-
 # License（开源协议）
 Copyright (C) China Electric Power Research Institute
 
-Under this license agreement, anyone has the right to copy, distribute, and/or modify this software, but must comply with the following conditions:
+Under this license agreement, anyone has the right to copy, distribute, and/or modify this project, but must comply with the following conditions:
 
 1.The copyright of this project belongs to China Electric Power Research Institute. <br>
 2.It is prohibited to use this project for any commercial purposes, including but not limited to selling, renting, or for any profit-making purposes. <br>
@@ -112,7 +114,7 @@ The citation format of the paper is as follows:. <br>
 
 版权所有 (C) 中国电力科学研究开发
 
-根据本许可协议，任何人都有权利复制、分发和/或修改本软件，但需要遵守以下条件：
+根据本许可协议，任何人都有权利复制、分发和/或修改本项目，但需要遵守以下条件：
 
 1. 该项目的版权归中国电力科学研究开发所有。
 2. 禁止将该项目用于任何商业用途，包括但不限于出售、出租或用于营利性目的。
