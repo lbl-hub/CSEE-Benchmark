@@ -22,7 +22,7 @@ The response curve of rotor angle transient stability is shown in Fig.3. The cri
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS3.png" width="500"><img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS2.png" width="500">
 </div>
 <p align="center">  
-Fig.2 Response curve of rotor angle dynamic stability              Fig.3 Response curve of rotor angle transient stability
+Fig.2 Response curve of rotor angle dynamic stability\        Fig.3 Response curve of rotor angle transient stability
 </p> 
 Sensitivity analysis results show that this electromagnetic transient simulation benchmark is able to comprehensively reflects the characteristics of different rotor angle stability issues and has flexible extensibility. Sharing the benchmark test system can provide a basic platform for related research of rotor angle stability analysis and control, and contr
 ibute to the horizontal comparison of different conclusions and the improvement of research efficiency. <br>
