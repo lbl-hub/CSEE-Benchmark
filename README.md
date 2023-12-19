@@ -22,7 +22,7 @@ The response curve of rotor angle transient stability is shown in Fig.3. The cri
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS3.png" width="500"><img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS2.png" width="500">
 </div>
 <p align="center">  
-Fig.2 Response curve of rotor angle dynamic stability&nbsp;&nbsp;&nbsp;&nbsp;Fig.3 Response curve of rotor angle transient stability
+Fig.2 Response curve of rotor angle dynamic stability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.3 Response curve of rotor angle transient stability
 </p> 
 Sensitivity analysis results show that this electromagnetic transient simulation benchmark is able to comprehensively reflects the characteristics of different rotor angle stability issues and has flexible extensibility. Sharing the benchmark test system can provide a basic platform for related research of rotor angle stability analysis and control, and contr
 ibute to the horizontal comparison of different conclusions and the improvement of research efficiency. <br>
@@ -36,11 +36,14 @@ In view of the above, this paper designs a benchmark for voltage stability study
 <p align="center">  
 Fig.4 Main grid of CEPRI-VS
 </p> 
-Two typical voltage stability scenarios are incorporated in CEPRI-VS, i.e., voltage collapse and continuous low-voltage. The constraint fault of both scenarios is N-2 transmission line disconnection after a three-phase-to-ground fault between bus B03 and bus B05. Dynamics of the two scenarios are demonstrated in Fig.2-3, respectively. Some new, distinct performances induced by renewables are incorporated as well. <br>
+Two typical voltage stability scenarios are incorporated in CEPRI-VS, i.e., voltage collapse and continuous low-voltage. The constraint fault of both scenarios is N-2 transmission line disconnection after a three-phase-to-ground fault between bus B03 and bus B05. Dynamics of the two scenarios are demonstrated in Fig.5-6, respectively. Some new, distinct performances induced by renewables are incorporated as well. <br>
 <div align=center>
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC2.png" width="400"><img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC3.png" width="400"/>
 </div>
-Figure 4 gives an example of repeated low-voltage-ride-through of a wind turbine in voltage collapse scenario. The performance results in abnormal voltage oscillation, as can be seen from bus B08 in Fig.2. <br>
+<p align="center">  
+Fig.5 Dynamics of voltage collapse scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig.6 Dynamics of continuous low-voltage scenario
+</p> 
+Fig.7 gives an example of repeated low-voltage-ride-through of a wind turbine in voltage collapse scenario. The performance results in abnormal voltage oscillation, as can be seen from bus B08 in Fig.5. <br>
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC4.png" width="200">
 
 
