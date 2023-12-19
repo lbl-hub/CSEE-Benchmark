@@ -86,7 +86,7 @@ Thank you to the benchmark developers for their efforts. Here is the list of dev
 | 李宗翰 | 男 | 工程师 | lizonghan@epri.sgcc.com.cn |
 | 程奕 | 男 | 工程师 | chengyi@epri.sgcc.com.cn |<br>
 
-# Communication and Cooperation
+# Communication（交流合作）
 
 We have a WeChat communication group where all case developers are present. If you have any questions during the use of the example, please scan the QR code below to join. Our developers will answer your questions promptly. In addition, we warmly welcome your participation in the maintenance work of the example project. The examples are developed based on PSD-BPA, and the paper provides detailed parameters for all the examples. If you transplant the calculation example to other power system simulation software, you can also provide relevant documents, and we will supplement them to this project. Thank you for your tremendous contribution.
 
