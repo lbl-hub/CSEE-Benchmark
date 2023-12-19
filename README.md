@@ -1,8 +1,8 @@
-## 目录
+# 目录
 - [Project Introduction](#section-1)
-- [Introduction to the Standard Benchmark of Rotor Angle Stability](#section-2)
-- [Introduction to the Standard Benchmark of Frequency Stability](#section-3)
-- [Introduction to the Standard Benchmark of Frequency Stability](#section-3)
+- [Introduction to the Standard Benchmark of Rotor Angle Stability(功角稳定标准算例介绍)](#section-2)
+- [Introduction to the Standard Benchmark of Power Angle Stability(电压稳定标准算例介绍)](#section-3)
+- [Introduction to the Standard Benchmark of Frequency Stability(频率稳定标准算例介绍)](#section-4)
 
 # Project Introduction (项目介绍)
 This project is a new power system example released by the China Electric Power Research Institute. The proportion of new energy in these examples exceeds 50%, which can comprehensively reflect the stable characteristics of the new power system in terms of power angle, voltage, and frequency at the electromechanical transient scale. It can provide a basic platform for researchers and improve their efficiency.<br>
