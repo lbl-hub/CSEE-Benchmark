@@ -106,7 +106,7 @@ Under this license agreement, anyone has the right to copy, distribute, and/or m
 3.If this project is used in academic papers or other research outputs, please cite the source of this project. <br>
 
 The citation format of the paper is as follows:. <br>
-[1] 徐式蕴,李宗翰,赵兵等.新型电力系统标准算例(1)：功角稳定CSEE-RAS[J/OL].中国电机工程学报:1-14[2023-12-19].https://doi.org/10.13334/j.0258-8013.pcsee.230534.
-[2] 吴萍,赵兵,程奕等.新型电力系统标准算例(2)：频率稳定CSEE-FS[J/OL].中国电机工程学报:1-12[2023-12-19].http://kns.cnki.net/kcms/detail/11.2107.TM.20230901.2141.004.html.
-[3] 赵兵,徐式蕴,兰天楷等.新型电力系统标准算例(3)：电压稳定CSEE-VS[J/OL].中国电机工程学报:1-13[2023-12-19].http://kns.cnki.net/kcms/detail/11.2107.TM.20231012.1452.008.html.
+[1] 徐式蕴,李宗翰,赵兵等.新型电力系统标准算例(1)：功角稳定CSEE-RAS[J/OL].中国电机工程学报:1-14[2023-12-19].https://doi.org/10.13334/j.0258-8013.pcsee.230534. <br>
+[2] 吴萍,赵兵,程奕等.新型电力系统标准算例(2)：频率稳定CSEE-FS[J/OL].中国电机工程学报:1-12[2023-12-19].http://kns.cnki.net/kcms/detail/11.2107.TM.20230901.2141.004.html. <br>
+[3] 赵兵,徐式蕴,兰天楷等.新型电力系统标准算例(3)：电压稳定CSEE-VS[J/OL].中国电机工程学报:1-13[2023-12-19].http://kns.cnki.net/kcms/detail/11.2107.TM.20231012.1452.008.html. <br>
 
