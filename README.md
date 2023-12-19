@@ -62,8 +62,8 @@ Fig.8 System topology of CSEE-FS
 </p> 
 Simulation tests were conducted on high/low- frequency, and ultra-low frequency oscillation scenarios using the constructed benchmark system. In the high-frequency scenario, the effects of DC power, DC fault types and the proportion of new energy were analyzed. In low-frequency scenario, the effects of disturbance types and new energy control strategies were studied. In the ultra-low frequency oscillation scenario, the effects of disturbance types, hydroelectric units’ parameters and system inertia were explored.<br>
 <div align=center>
-<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/FS2.png" width="400"><img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/FS3.png" width="400"/>
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/FS2.png" width="400">&nbsp;&nbsp;&nbsp;<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/FS3.png" width="400"/>
 </div>
 <p align="center">  
-(a)Low frequency scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)Ultra-low frequency scenario
+(a)Low frequency scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)Ultra-low frequency scenario
 </p> 
