@@ -36,7 +36,7 @@ Fig.2 Response curve of rotor angle dynamic stability&nbsp;&nbsp;&nbsp;&nbsp;&nb
 Sensitivity analysis results show that this electromagnetic transient simulation benchmark is able to comprehensively reflects the characteristics of different rotor angle stability issues and has flexible extensibility. Sharing the benchmark test system can provide a basic platform for related research of rotor angle stability analysis and control, and contr
 ibute to the horizontal comparison of different conclusions and the improvement of research efficiency. <br>
 
-# Introduction to the Standard Benchmark of Power Angle Stability （电压稳定标准算例介绍）
+# Introduction to the Standard Benchmark of Voltage Stability （电压稳定标准算例介绍）
 Modern power systems are developing as AC-DC hybrid power system with high penetration of renewables. Voltage stability of the system is changing profoundly, and has been extensively studied. However, the studies adopt various test system in simulations and case study. Authenticity and rationality of the test systems are occasionally overlooked. Besides, it is hard to compare the studies in different literatures. 
 In view of the above, this paper designs a benchmark for voltage stability study named CEPRI-VS, which is based on the practical engineering of China. Topology of the system main grid is demonstrated in Fig.4., with its renewable penetration above 50%. The system is comprised of 21 nodes of 500kV, and 55 nodes of lower voltage level that depict details of power plants and converter stations.
 <div align=center>
