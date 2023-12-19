@@ -84,6 +84,7 @@ Thank you to the benchmark developers for their efforts. Here is the list of dev
 | 徐式蕴 | 女 | 教授级高级工程师 | xushiyun@epri.sgcc.com.cn |
 | 吴萍 | 女 | 高级工程师 | wuping@epri.sgcc.com.cn |
 | 李宗翰 | 男 | 工程师 | lizonghan@epri.sgcc.com.cn |
+| 兰天楷 | 男 | 工程师 | lantiankai@epri.sgcc.com.cn |
 | 程奕 | 男 | 工程师 | chengyi@epri.sgcc.com.cn |<br>
 
 # Communication（交流合作）
@@ -103,7 +104,9 @@ Under this license agreement, anyone has the right to copy, distribute, and/or m
 1.The copyright of this project belongs to China Electric Power Research Institute. <br>
 2.It is prohibited to use this project for any commercial purposes, including but not limited to selling, renting, or for any profit-making purposes. <br>
 3.If this project is used in academic papers or other research outputs, please cite the source of this project. <br>
+
 The citation format of the paper is as follows:. <br>
 [1] 徐式蕴,李宗翰,赵兵等.新型电力系统标准算例(1)：功角稳定CSEE-RAS[J/OL].中国电机工程学报:1-14[2023-12-19].https://doi.org/10.13334/j.0258-8013.pcsee.230534.
-
+[2] 吴萍,赵兵,程奕等.新型电力系统标准算例(2)：频率稳定CSEE-FS[J/OL].中国电机工程学报:1-12[2023-12-19].http://kns.cnki.net/kcms/detail/11.2107.TM.20230901.2141.004.html.
+[3] 赵兵,徐式蕴,兰天楷等.新型电力系统标准算例(3)：电压稳定CSEE-VS[J/OL].中国电机工程学报:1-13[2023-12-19].http://kns.cnki.net/kcms/detail/11.2107.TM.20231012.1452.008.html.
 
