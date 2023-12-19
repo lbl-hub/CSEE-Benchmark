@@ -16,21 +16,16 @@ In view of the above, we designs a benchmark for voltage stability study named C
 <p align="center">  
 Fig.1 System topology of CSEE-RAS
 </p> 
-The installed capacity of renewable energy in the benchmark test system is more than 50%. According to the system structure, dynamic and transient rotor angle stability scenarios are provided by adjusting the operation mode, and the penetration level of renewable energy in the above scenarios is above 50%. The response curve of rotor angle dynamic stability is shown in Fig.2. The damping ratio is selected to evaluate dynamic rotor angle stability. And impact factors that influence dynamic rotor angle stability level are renewable energy penetration, thermal power plant location, renewable energy control strategy and the line series compensation. And these impact factors are used to obtain the sensitivity analysis.
-<div align=center>
-<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS2.png" width="500">
-</div>
-<p align="center">  
-Fig.2 Response curve of rotor angle dynamic stability
-</p> 
+The installed capacity of renewable energy in the benchmark test system is more than 50%. According to the system structure, dynamic and transient rotor angle stability scenarios are provided by adjusting the operation mode, and the penetration level of renewable energy in the above scenarios is above 50%. The response curve of rotor angle dynamic stability is shown in Fig.2. The damping ratio is selected to evaluate dynamic rotor angle stability. And impact factors that influence dynamic rotor angle stability level are renewable energy penetration, thermal power plant location, renewable energy control strategy and the line series compensation. And these impact factors are used to obtain the sensitivity analysis.<br>
 The response curve of rotor angle transient stability is shown in Fig.3. The critical clearing time (CCT) is selected to evaluate dynamic rotor angle stability. And impact factors that influence transient rotor angle stability level are renewable energy penetration, renewable energy plant location, thermal power plant location, the power flow level, renewable energy control strategy and VDCOL control strategy. And these impact factors are used to obtain the sensitivity analysis.
 <div align=center>
-<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS3.png" width="500">
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS3.png" width="500"><img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/RAS2.png" width="500">
 </div>
 <p align="center">  
-Fig.3 Response curve of rotor angle transient stability
+Fig.2 Response curve of rotor angle dynamic stability   Fig.3 Response curve of rotor angle transient stability
 </p> 
-Sensitivity analysis results show that this electromagnetic transient simulation benchmark is able to comprehensively reflects the characteristics of different rotor angle stability issues and has flexible extensibility. Sharing the benchmark test system can provide a basic platform for related research of rotor angle stability analysis and control, and contribute to the horizontal comparison of different conclusions and the improvement of research efficiency. <br>
+Sensitivity analysis results show that this electromagnetic transient simulation benchmark is able to comprehensively reflects the characteristics of different rotor angle stability issues and has flexible extensibility. Sharing the benchmark test system can provide a basic platform for related research of rotor angle stability analysis and control, and contr
+ibute to the horizontal comparison of different conclusions and the improvement of research efficiency. <br>
 
 # Introduction to the Standard Benchmark of Power Angle Stability (电压稳定标准算例介绍)
 Modern power systems are developing as AC-DC hybrid power system with high penetration of renewables. Voltage stability of the system is changing profoundly, and has been extensively studied. However, the studies adopt various test system in simulations and case study. Authenticity and rationality of the test systems are occasionally overlooked. Besides, it is hard to compare the studies in different literatures. 
