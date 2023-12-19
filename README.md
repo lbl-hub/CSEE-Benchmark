@@ -74,6 +74,3 @@ Simulation tests were conducted on high/low- frequency, and ultra-low frequency 
 (a)Low frequency scenario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)Ultra-low frequency scenario<br>Fig. 8 Frequency deviations under different types of disturbance
 </p> 
 
-# Introduction to the Standard Benchmark of Frequency Stability (频率稳定标准算例介绍)
-
-
