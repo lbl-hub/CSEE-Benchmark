@@ -78,12 +78,12 @@ Simulation tests were conducted on high/low- frequency, and ultra-low frequency 
 
 # Communication（交流合作）
 
-We have a WeChat communication group where all benchmark developers are present. If you have any questions during the use of the example, please scan the QR code below to join. Our developers will answer your questions promptly. In addition, we warmly welcome your participation in the maintenance work of the benchmark project. The benchmarks are developed based on PSD-BPA, and the paper provides detailed parameters for all the benchmarks. If you transplant the benchmark to other power system simulation software, you can also provide relevant documents, and we will supplement them to this project. Thank you for your tremendous contribution.
+We have a WeChat communication group where all case developers are present. If you have any questions during the use of the example, please scan the QR code below to join, and our developers will answer your questions promptly. In addition, we warmly welcome your participation in the maintenance work of the example project. The current example is developed based on PSD-BPA, and the paper provides detailed parameters for all examples. If you transplant the calculation examples to other power system simulation software, you can also provide relevant files, and we will supplement them. Thank you for your tremendous contribution.
 <div align=center>
-<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/WEchat_group.png" width="400">
+<img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/wechat.png" width="400">
 </div>
 
-我们有一个微信交流群，所有算例开发人员都在群内。如果您在算例的使用过程中有任何问题，请扫描下方的二维码加入，我们的开发人员将及时回答您的问题。此外，我们热烈欢迎您参与算例项目的维护工作，当前算例是基于PSD-BPA开发的，论文中给出了所有算例的详细参数。如果您将算例移植到其他电力系统仿真软件中，您也可以提供相关文件，我们将对其进行补充，并感谢您的巨大贡献。
+我们有一个微信交流群，所有算例开发人员都在群内。如果您在算例的使用过程中有任何问题，请扫描下方的二维码加我微信，我将您拉进群里。在这个微信群中我们的开发人员将及时回答您的问题。此外，我们热烈欢迎您参与算例项目的维护工作，当前算例是基于PSD-BPA开发的，论文中给出了所有算例的详细参数。如果您将算例移植到其他电力系统仿真软件中，您也可以提供相关文件，我们将对其进行补充，并感谢您的巨大贡献。
 
 
 # License（开源协议）
