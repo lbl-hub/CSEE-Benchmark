@@ -89,7 +89,7 @@ We have a WeChat communication group where all case developers are present. If y
 # License（开源协议）
 Copyright (C) China Electric Power Research Institute
 
-Under this license agreement, anyone has the right to copy, distribute, and/or modify this project, but must comply with the following conditions:
+Under this license agreement, anyone has the right to copy, distribute or modify this project, but must comply with the following conditions:
 
 1.The copyright of this project belongs to China Electric Power Research Institute. <br>
 2.It is prohibited to use this project for any commercial purposes, including but not limited to selling, renting, or for any profit-making purposes. <br>
@@ -102,7 +102,7 @@ The citation format of the paper is as follows:. <br>
 
 版权所有 (C) 中国电力科学研究院
 
-根据本许可协议，任何人都有权利复制、分发和/或修改本项目，但需要遵守以下条件：
+根据本许可协议，任何人都有权利复制、分发或修改本项目，但需要遵守以下条件：
 
 1. 该项目的版权归中国电力科学研究所有。
 2. 禁止将该项目用于任何商业用途，包括但不限于出售、出租或用于营利性目的。
