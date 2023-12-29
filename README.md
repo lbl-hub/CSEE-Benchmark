@@ -8,9 +8,9 @@
 - [Thanks（鸣谢）](#section-7)
 
 # Project Introduction （项目介绍）
-This project is a new power system example released by the China Electric Power Research Institute. The proportion of new energy in these examples exceeds 50%, which can comprehensively reflect the stable characteristics of the new power system in terms of power angle, voltage, and frequency at the electromechanical transient scale. It can provide a basic platform for researchers and improve their efficiency.<br>
-It should be noted that these examples were developed based on the Power System Simulation Software (PSD-BPA). Therefore, you need to have PSD-BPA software in order to use these examples. If you do not have PSD-BPA, please contact: wugy@epri.sgcc.com.cn.<br>
-In addition, there are case studies in each folder. The paper provides a detailed description of the characteristics of the examples and provides detailed parameters for the benchmarks. In addition to the paper, the folder also contains the corresponding flow file (. dat), stability file (. swi) and user manual for PSD-BPA for each benchmark.<br>
+This project is a new power system benchmark released by the China Electric Power Research Institute. The proportion of new energy in these benchmarks exceeds 50%, which can comprehensively reflect the stable characteristics of the new power system in terms of power angle, voltage, and frequency at the electromechanical transient scale. It can provide a basic platform for researchers and improve their efficiency.<br>
+It should be noted that these examples were developed based on the Power System Simulation Software (PSD-BPA). Therefore, you need to have PSD-BPA software in order to use these benchmarks. If you do not have PSD-BPA, please contact: wugy@epri.sgcc.com.cn.<br>
+In addition, there are case studies in each folder. The paper provides a detailed description of the characteristics of the benchmarks and provides detailed parameters for the benchmarks. In addition to the paper, the folder also contains the corresponding flow file (. dat), stability file (. swi) and user manual for PSD-BPA for each benchmark.<br>
 
 该项目是中国电力科学研究院（China Electric Power Research Institute）发布的新型电力系统算例。这些算例的新能源占比均超过50%，可全面地反映机电暂态尺度下新型电力系统的功角、电压和频率等稳定特性，可为研究人员提供基础平台，提升科研人员的效率。<br>
 需要特别说明的是这些算例是基于电力系统仿真软件（PSD-BPA）进行开发的。因此，您需要拥有PSD-BPA软件，才可以使用这些算例。若您没有PSD-BPA，请联系： wugy@epri.sgcc.com.cn。<br>
@@ -78,7 +78,7 @@ Simulation tests were conducted on high/low- frequency, and ultra-low frequency 
 
 # Communication（交流合作）
 
-We have a WeChat communication group where all case developers are present. If you have any questions during the use of the benchmark, please scan the QR code below to join, and our developers will answer your questions promptly. In addition, we warmly welcome your participation in the maintenance work of the example project. The current example is developed based on PSD-BPA, and the paper provides detailed parameters for all benchmarks. If you transplant the calculation examples to other power system simulation software, you can also provide relevant files, and we will supplement them. Thank you for your tremendous contribution.
+We have a WeChat communication group where all case developers are present. If you have any questions during the use of the benchmark, please scan the QR code below to join, and our developers will answer your questions promptly. In addition, we warmly welcome your participation in the maintenance work of the example project. The current benchmark is developed based on PSD-BPA, and the paper provides detailed parameters for all benchmarks. If you transplant the benchmarks to other power system simulation software, you can also provide relevant files, and we will supplement them. Thank you for your tremendous contribution.
 <div align=center>
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/wechat.png" width="400">
 </div>
@@ -90,23 +90,21 @@ We have a WeChat communication group where all case developers are present. If y
 Copyright (C) China Electric Power Research Institute
 
 Under this license agreement, anyone has the right to copy, distribute or modify this project, but must comply with the following conditions:
-
 1.The copyright of this project belongs to China Electric Power Research Institute. <br>
 2.It is prohibited to use this project for any commercial purposes, including but not limited to selling, renting, or for any profit-making purposes. <br>
 3.If this project is used in academic papers or other research outputs, please cite the source of this project. <br>
+
+版权所有 (C) 中国电力科学研究院
+
+根据本许可协议，任何人都有权利复制、分发或修改本项目，但需要遵守以下条件：
+1. 该项目的版权归中国电力科学研究所有。
+2. 禁止将该项目用于任何商业用途，包括但不限于出售、出租或用于营利性目的。
+3. 若在学术论文或其他研究成果中使用了该项目，请在引文中注明该项目的来源。
 
 The citation format of the paper is as follows:. <br>
 [1] 徐式蕴,李宗翰,赵兵等.新型电力系统标准算例(1)：功角稳定CSEE-RAS[J/OL].中国电机工程学报:1-14[2023-12-19].https://doi.org/10.13334/j.0258-8013.pcsee.230534. <br>
 [2] 吴萍,赵兵,程奕等.新型电力系统标准算例(2)：频率稳定CSEE-FS[J/OL].中国电机工程学报:1-12[2023-12-19].http://kns.cnki.net/kcms/detail/11.2107.TM.20230901.2141.004.html. <br>
 [3] 赵兵,徐式蕴,兰天楷等.新型电力系统标准算例(3)：电压稳定CSEE-VS[J/OL].中国电机工程学报:1-13[2023-12-19].http://kns.cnki.net/kcms/detail/11.2107.TM.20231012.1452.008.html. <br>
-
-版权所有 (C) 中国电力科学研究院
-
-根据本许可协议，任何人都有权利复制、分发或修改本项目，但需要遵守以下条件：
-
-1. 该项目的版权归中国电力科学研究所有。
-2. 禁止将该项目用于任何商业用途，包括但不限于出售、出租或用于营利性目的。
-3. 若在学术论文或其他研究成果中使用了该项目，请在引文中注明该项目的来源。
 
 # Thanks（鸣谢）
 
