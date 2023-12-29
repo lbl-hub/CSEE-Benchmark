@@ -9,11 +9,15 @@
 
 # Project Introduction (项目介绍)
 This project is a new power system benchmark released by the China Electric Power Research Institute. The proportion of new energy in these benchmarks exceeds 50%, which can comprehensively reflect the stable characteristics of the new power system in terms of power angle, voltage, and frequency at the electromechanical transient scale. It can provide a basic platform for researchers and improve their efficiency.<br>
+
 It should be noted that these examples were developed based on the Power System Simulation Software (PSD-BPA). Therefore, you need to have PSD-BPA software in order to use these benchmarks. If you do not have PSD-BPA, please contact: wugy@epri.sgcc.com.cn.<br>
+
 In addition, there are case studies in each folder. The paper provides a detailed description of the characteristics of the benchmarks and provides detailed parameters for the benchmarks. In addition to the paper, the folder also contains the corresponding flow file (. dat), stability file (. swi) and user manual for PSD-BPA for each benchmark.<br>
 
 该项目是中国电力科学研究院（China Electric Power Research Institute）发布的新型电力系统算例。这些算例的新能源占比均超过50%，可全面地反映机电暂态尺度下新型电力系统的功角、电压和频率等稳定特性，可为研究人员提供基础平台，提升科研人员的效率。<br>
+
 需要特别说明的是这些算例是基于电力系统仿真软件（PSD-BPA）进行开发的。因此，您需要拥有PSD-BPA软件，才可以使用这些算例。若您没有PSD-BPA，请联系： wugy@epri.sgcc.com.cn。<br>
+
 此外，每个文件夹下都有算例论文。论文中详细描述了算例的特性，并给出算例的详细参数。除了论文外，文件夹内还有每个算例对应的潮流文件（.dat）、稳定文件（.swi）和PSD-BPA的使用手册。<br>
 
 # Introduction to the Standard Benchmark of Rotor Angle Stability (功角稳定标准算例介绍)
