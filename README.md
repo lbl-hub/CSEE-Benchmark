@@ -46,7 +46,7 @@ In view of the above, this paper designs a benchmark for voltage stability study
 <img src="https://github.com/lbl-hub/CSEE-Benchmark/blob/main/Benchmark_fig/VC1.png" width="400">
 </div>
 <p align="center">  
-Fig.4 Main grid of CEPRI-VS
+Fig.4 Main grid of CSEE-VS
 </p> 
 Two typical voltage stability scenarios are incorporated in CEPRI-VS, i.e., voltage collapse and continuous low-voltage. The constraint fault of both scenarios is N-2 transmission line disconnection after a three-phase-to-ground fault between bus B03 and bus B05. Dynamics of the two scenarios are demonstrated in Fig.5-6, respectively. Some new, distinct performances induced by renewables are incorporated as well. <br>
 <div align=center>
